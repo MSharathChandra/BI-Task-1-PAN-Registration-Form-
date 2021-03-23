@@ -1,0 +1,45 @@
+span {
+    font-size: 22.5px;
+    font-family: serif;
+    font-weight: bold;
+}
+
+table,
+th,
+td {
+    border: 3px solid grey;
+    /* border-collapse: collapse; */
+}
+
+p {
+    padding: 0%;
+    margin: 0%;
+    font-size: 22.5px;
+    font-family: serif;
+}
+
+.star {
+    color: red;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.nobold {
+    font-weight: 100;
+    font-family: serif;
+}
+
+.check {
+    margin: 25%;
+}
+
+button {
+    box-shadow: none;
+    height: 28px;
+    border-radius: 2.5px;
+    font-size: 18px;
+    text-align: center;
+    border: 1px solid grey;
+}
